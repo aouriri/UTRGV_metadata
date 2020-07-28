@@ -4,4 +4,6 @@
 * [Dublin Core fields](/#/DCfields)
 * [CONTENTdm metadata](/#/contentdm)
 * [ScholarWorks metadata](/#/scholarworks)
+* [Current Projects](/#/projects)
+  * [Linked Data enrichment](/#ld)
 * [Contacts](contacts.md)
