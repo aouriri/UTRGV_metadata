@@ -1,4 +1,4 @@
-> From the [bepress Digital Commons "Metadata Options" page](https://www.bepress.com/reference_guide_dc/metadata-options-digital-commons/)
+> From the [bepress Digital Commons "Metadata Options" page](https://www.bepress.com/reference_guide_dc/metadata-options-digital-commons/#metadata-field-basics-in-digital-commons)
 
 **Field components**
 
