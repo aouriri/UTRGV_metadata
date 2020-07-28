@@ -5,3 +5,9 @@ To add, remove, or make changes to metadata fields, contact Digital Commons Cons
 [Digital Commons Book Gallery Metadata](https://aouriri.github.io/UTRGV_metadata/docs/DC-Book-Gallery-Metadata_201701.xlsx)
 
 [Digital Commons Electronic Theses and Dissertations (ETD) Metadata](https://aouriri.github.io/UTRGV_metadata/docs/DC-ETD-Metadata_201701.xlsx)
+
+[Digital Commons Event Community Metadata](https://aouriri.github.io/UTRGV_metadata/docs/DC-Event-Community-Metadata_20170915.xlsx)
+
+[Digital Commons Image Gallery Metadata](https://aouriri.github.io/UTRGV_metadata/docs/DC-Image-Gallery-Metadata_201701.xlsx)
+
+[Digital Commons Journal Metadata](https://aouriri.github.io/UTRGV_metadata/docs/DC-Journal-Metadata_201701.xlsx)
