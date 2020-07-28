@@ -1,6 +1,6 @@
 For questions and comments about the application and input of metadata, or the philosophy and development of metadata standards and controlled vocabularies, contact:
 
-Ateanna Uriri
+**Ateanna Uriri**
 
 Metadata Librarian
 
@@ -10,7 +10,7 @@ Metadata Librarian
 
 For questions and comments about mediated deposits to ScholarWorks @ UTRGV or related issues, contact:
 
-Justin White
+**Justin White**
 
 Scholarly Communications Librarian
 
