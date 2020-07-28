@@ -10,6 +10,8 @@ For more information about the field components included in the charts, please s
 
 **Files**
 
+[Digital Commons Series Metadata](https://aouriri.github.io/UTRGV_metadata/docs/DC-Book-Gallery-Metadata_201701.xlsx)
+
 [Digital Commons Book Gallery Metadata](https://aouriri.github.io/UTRGV_metadata/docs/DC-Book-Gallery-Metadata_201701.xlsx)
 
 [Digital Commons Electronic Theses and Dissertations (ETD) Metadata](https://aouriri.github.io/UTRGV_metadata/docs/DC-ETD-Metadata_201701.xlsx)
