@@ -5,5 +5,5 @@
 * [CONTENTdm metadata](/#/contentdm)
 * [ScholarWorks metadata](scholarworks.md)
 * [Current Projects](/#/projects)
-  * [Linked Data enrichment](/#ld)
+  * [Linked Data enrichment](enrichmentprojects.md)
 * [Contacts](contacts.md)
