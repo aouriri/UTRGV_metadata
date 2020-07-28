@@ -4,4 +4,4 @@ To add, remove, or make changes to metadata fields, contact Digital Commons Cons
 
 [Digital Commons Book Gallery Metadata](DC-Book-Gallery-Metadata_201701.xlsx)
 
-[Digital Commons Electronic Theses and Dissertations (ETD) Metadata](DC-ETD-Metadata_201701.xlsx)
+[Digital Commons Electronic Theses and Dissertations (ETD) Metadata](https://github.com/aouriri/UTRGV_metadata/blob/master/DC-ETD-Metadata_201701.xlsx)
