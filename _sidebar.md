@@ -4,4 +4,4 @@
 * [Dublin Core fields](/#/DCfields)
 * [CONTENTdm metadata](/#/contentdm)
 * [ScholarWorks metadata](/#/scholarworks)
-* [Contacts](/#/contacts)
+* [Contacts](https://aouriri.github.io/UTRGV_metadata/#/contacts)
