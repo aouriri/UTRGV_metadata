@@ -14,8 +14,8 @@ To add, remove, or make changes to metadata fields, contact Digital Commons Cons
   * WYSIWYG: A large text entry box with a set of tools allowing for easy HTML formatting.
   * select: A drop-down list of options, or a multi-select list.
   * fixed: A fixed-value field will not appear on the submission form for either authors or administrators, because it cannot be changed from the default value except in batch revision.
-        checkbox: A small box that is selected with a checkmark when a user clicks on it.
-        radio: Small round buttons that are commonly used for either/or selections.
+  * checkbox: A small box that is selected with a checkmark when a user clicks on it.
+  * radio: Small round buttons that are commonly used for either/or selections.
 * **Field Instructions:** Field instructions appear on the submission or revision form below the field title and above the input box. They may contain some HTML, and can be changed for most fields anytime.
 * **Field Label:** The field label appears near the input box on a submission form, as shown in the below screenshot. The field label can be changed for most fields at any time.
 * **Default Value:** Text fields may contain a default value that is already populated on the submission form when a user loads it. Note that in order for the default value to be saved, it must appear to the user on the submission form, so an editor bypass field (see details below) will not receive default values when authors submit. This setting may be changed for a field at any time.
