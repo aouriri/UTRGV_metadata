@@ -2,7 +2,7 @@
 
 * [Home](/)
 * [Dublin Core fields](/#/DCfields)
-* [CONTENTdm metadata](/#/contentdm)
+* [CONTENTdm metadata](CONTENTdm.md)
 * [ScholarWorks metadata](scholarworks.md)
 * [Current Projects](/#/projects)
   * [Linked Data enrichment](enrichmentprojects.md)
