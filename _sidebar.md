@@ -5,5 +5,6 @@
 * [CONTENTdm metadata](CONTENTdm.md)
 * [ScholarWorks metadata](scholarworks.md)
 * [Current Projects](/#/projects)
-  * [Linked Data enrichment](enrichmentprojects.md)
+  * [Linked Data Enrichment](enrichmentprojects.md)
+  * [Metadata Application Profile (MAP)]
 * [Contacts](contacts.md)
