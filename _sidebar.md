@@ -6,5 +6,5 @@
 * [ScholarWorks metadata](scholarworks.md)
 * [Current Projects](/#/projects)
   * [Linked Data Enrichment](enrichmentprojects.md)
-  * [Metadata Application Profile (MAP)]
+  * [Metadata Application Profile (MAP)](rgvMAP.md)
 * [Contacts](contacts.md)
