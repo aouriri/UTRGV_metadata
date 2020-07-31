@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Dublin Core fields](/#/DCfields)
+* [Dublin Core fields](dublincore.md)
 * [CONTENTdm metadata](CONTENTdm.md)
 * [ScholarWorks metadata](scholarworks.md)
 * [Current Projects](/#/projects)
