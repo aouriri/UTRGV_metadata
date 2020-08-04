@@ -80,4 +80,4 @@ Properties in the `/terms/` namespace:
 * **type** - used
 * **valid**
 
-<b id="f1">1</b> From the [Dublin Core Metadata Initiative (DCMI) Metadata Terms webpage](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3). [↩](#a1)
+<b id="f1">1.</b> From the [Dublin Core Metadata Initiative (DCMI) Metadata Terms webpage](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3). [↩](#a1)
