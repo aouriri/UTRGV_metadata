@@ -8,4 +8,5 @@
   * [Linked Data Enrichment](enrichmentprojects.md)
   * [Metadata Application Profile (MAP)](rgvMAP.md)
 * [Related Documents and Information](documents.md)
+* [Glossary](_glossary.md)
 * [Contacts](contacts.md)
