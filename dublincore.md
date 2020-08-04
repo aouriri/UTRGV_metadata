@@ -4,7 +4,7 @@ For the digital collections and institutional repository at UTRGV, most of the e
 
 ![example image of subject headings](docs/subjects-example.JPG)
 
-Properties in the ```/elements/1.1/``` namespace:
+Properties in the `/elements/1.1/` namespace:
 
 * contributor: an entity responsible for making contributions to the resource
 * coverage: the spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant.
@@ -22,7 +22,7 @@ Properties in the ```/elements/1.1/``` namespace:
 * title: a name given to the resource.
 * type: the nature or genre of the resource.
 
-Properties in the ```Properties in the /terms/``` namespace:
+Properties in the `/terms/` namespace:
 
 * abstract - used
 * accessRights - used
