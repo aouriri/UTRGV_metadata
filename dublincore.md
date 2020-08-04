@@ -1,4 +1,4 @@
-**Dublin Core Metadata Terms**[^1]
+**Dublin Core Metadata Terms**<sup>[1](#myfootnote1)</sup>
 
 For the digital collections and institutional repository at UTRGV, most of the elements and some subelements in Dublin Core are employed. Additionally, encoding schemes such as the Library of Congress Subject Headings [(LCSH)](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html), are used implicitly or explictly (see example below) in further describing an object.
 
@@ -80,4 +80,4 @@ Properties in the `/terms/` namespace:
 * type - used
 * valid
 
-[^1]: From the [Dublin Core Metadata Initiative (DCMI) Metadata Terms webpage](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3).
+<a name="myfootnote1">1</a>: From the [Dublin Core Metadata Initiative (DCMI) Metadata Terms webpage](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3).
