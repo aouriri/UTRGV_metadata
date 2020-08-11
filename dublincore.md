@@ -1,6 +1,6 @@
 **Dublin Core Metadata Terms**<sup id="a1">[1](#f1)</sup>
 
-For the digital collections and institutional repository at UTRGV, most of the elements and some qualifiers in Dublin Core are employed. Additionally, encoding schemes such as the Library of Congress Subject Headings [(LCSH)](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html), are used implicitly or explictly (see example below) in further describing an object.
+For the digital collections and institutional repository at UTRGV, most of the elements and some qualifiers in Dublin Core are employed. Additionally, [encoding schemes](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-4) such as the Library of Congress Subject Headings [(LCSH)](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html), are used implicitly or explictly (see example below) in further describing an object.
 
 ![example image of subject headings](docs/subjects-example.JPG)
 
@@ -25,25 +25,57 @@ Properties in the `/elements/1.1/` namespace:
 Properties in the `/terms/` namespace:
 
 * **abstract:** subproperty of [description](#desc-id); summary of the resource.
-* alternative
+* **accessRights:**
+* **accrualMethod:**
+* **accrualPeriodicity:**
+* **accrualPolicy:**
+* **alternative:**
 * **audience:** a class of agents for whom the resource is intended or useful.
 * **available:** subproperty of [date](#date-id); date that the resource became or will become available.
 * **bibliographicCitation:** a bibliographic reference for the resource.
+* **conformsTo:**
 * **created:** subproperty of [date](#date-id); date of creation of the resource.
-* extent
-* isFormatOf
-* isPartOf
-* isReferencedBy
-* isReplacedBy
-* isRequiredBy
-* issued
-* isVersionOf
+* **dateAccepted:**
+* **dateCopyrighted:**
+* **dateSubmitted:**
+* **educationLevel:**
+* **extent:**
+* **hasFormat:**
+* **hasPart:**
+* **hasVersion:**
+* **instructionalMethod:**
+* **isFormatOf:**
+* **isPartOf:**
+* **isReferencedBy:**
+* **isReplacedBy:**
+* **isRequiredBy:**
+* **issued:**
+* **isVersionOf:**
 * **license:** subproperty of [rights](#rights-id); a legal document giving official permission to do something with the resource.
-* provenance
-* rightsHolder
+* **mediator:**
+* **medium:**
+* **modified:**
+* **provenance:**
+* **references:**
+* **relation:**
+* **replaces:**
+* **requires:**
+* **rightsHolder:**
 * **spatial:** subproperty of [coverage](#cover-id); identifies a location associated with an item.
 * **subject:**
+* **tableOfContents:**
 * **temporal:** subproperty of [coverage](#cover-id); identifies a time period associated with an item.
+* **valid:**
+
+`Elements` specific to Digital Commons
+
+* **thesis.degree:**
+* **thesis.degree.discipline**
+* **thesis.degree.grantor:**
+* **thesis.degree.level:**
+* **thesis.degree.name:**
+
+
 
 <b id="f1">1:</b> From the [Dublin Core Metadata Initiative (DCMI) Metadata Terms webpage](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3). [↩](#a1)
 
