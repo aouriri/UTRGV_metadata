@@ -6,7 +6,7 @@ For the digital collections and institutional repository at UTRGV, most of the e
 
 Properties in the `/elements/1.1/` namespace:
 
-* **contributor:** an entity responsible for making contributions to the resource
+* **contributor (dc.contributor):** an entity responsible for making contributions to the resource
   * dc.contributor
 * **coverage:** the spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant.
   * dc.coverage
