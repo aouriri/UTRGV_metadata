@@ -7,13 +7,10 @@ For the digital collections and institutional repository at UTRGV, most of the e
 Properties in the `/elements/1.1/` namespace:
 
 * **contributor (dc.contributor):** an entity responsible for making contributions to the resource
-  * dc.contributor
-* **coverage:** the spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant.
-  * dc.coverage
-* **creator:** an entity primarily responsible for making the resource.
-  * dc.creator
-* **date:** a point or period of time associated with an event in the lifecycle of the resource.
-* **description:** an account of the resource.
+* **coverage (dc.coverage):** the spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant.
+* **creator (dc.creator):** an entity primarily responsible for making the resource.
+* **date (dc.date):** a point or period of time associated with an event in the lifecycle of the resource.
+* <a name="desc-id">**description:**</a> an account of the resource.
 * **format:** the file format, physical medium, or dimensions of the resource.
 * **identifier:** an unambiguous reference to the resource within a given context.
 * **language:** a language of the resource.
@@ -27,31 +24,15 @@ Properties in the `/elements/1.1/` namespace:
 
 Properties in the `/terms/` namespace:
 
-* **abstract** - used
+* **abstract:** subproperty of [description](#desc-id)
 * **audience** - used
 * **available**
 * **bibliographicCitation** - used
-* **contributor** - used
-* **coverage** - used 
 * **created**
-* **creator**
-* **date**
-* **dateAccepted**
-* **dateCopyrighted**
-* **dateSubmitted**
-* **description** - used 
-* **format** - used
-* **identifier** - used 
-* **language** - used
-* **publisher** - used
 * **rights** - used
-* **rightsHolder** - used
-* **source** - used
 * **spatial** - used
 * **subject** - used
 * **temporal** - used
-* **title** - used
-* **type** - used
 
 <b id="f1">1:</b> From the [Dublin Core Metadata Initiative (DCMI) Metadata Terms webpage](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3). [↩](#a1)
 
