@@ -10,7 +10,7 @@ Properties in the `/elements/1.1/` namespace:
 * **coverage (dc.coverage):** the spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant.
 * **creator (dc.creator):** an entity primarily responsible for making the resource.
 * **date (dc.date):** a point or period of time associated with an event in the lifecycle of the resource.
-* <a name="desc-id"></a>**description:** an account of the resource.
+* <a name="desc-id" id="desc-id"></a>**description:** an account of the resource.
 * **format:** the file format, physical medium, or dimensions of the resource.
 * **identifier:** an unambiguous reference to the resource within a given context.
 * **language:** a language of the resource.
