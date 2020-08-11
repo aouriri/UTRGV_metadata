@@ -1,6 +1,6 @@
 **Dublin Core Metadata Terms**<sup id="a1">[1](#f1)</sup>
 
-For the digital collections and institutional repository at UTRGV, most of the elements and some subelements in Dublin Core are employed. Additionally, encoding schemes such as the Library of Congress Subject Headings [(LCSH)](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html), are used implicitly or explictly (see example below) in further describing an object.
+For the digital collections and institutional repository at UTRGV, most of the elements and some qualifiers in Dublin Core are employed. Additionally, encoding schemes such as the Library of Congress Subject Headings [(LCSH)](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html), are used implicitly or explictly (see example below) in further describing an object.
 
 ![example image of subject headings](docs/subjects-example.JPG)
 
@@ -25,15 +25,9 @@ Properties in the `/elements/1.1/` namespace:
 Properties in the `/terms/` namespace:
 
 * **abstract** - used
-* **accessRights** - used
-* **accrualMethod**
-* **accrualPeriodicity**
-* **accrualPolicy**
-* **alternative**
 * **audience** - used
 * **available**
 * **bibliographicCitation** - used
-* **conformsTo**
 * **contributor** - used
 * **coverage** - used 
 * **created**
@@ -43,41 +37,18 @@ Properties in the `/terms/` namespace:
 * **dateCopyrighted**
 * **dateSubmitted**
 * **description** - used 
-* **educationLevel**
-* **extent**
 * **format** - used
-* **hasFormat**
-* **hasPart**
-* **hasVersion**
 * **identifier** - used 
-* **instructionalMethod**
-* **isFormatOf**
-* **isPartOf**
-* **isReferencedBy**
-* **isReplacedBy**
-* **isRequiredBy**
-* **issued**
-* **isVersionOf**
 * **language** - used
-* **license**
-* **mediator**
-* **medium**
-* **modified**
-* **provenance**
 * **publisher** - used
-* **references**
-* **relation**
-* **replaces**
-* **requires**
 * **rights** - used
 * **rightsHolder** - used
 * **source** - used
 * **spatial** - used
 * **subject** - used
-* **tableOfContents**
 * **temporal** - used
 * **title** - used
 * **type** - used
-* **valid**
 
 <b id="f1">1:</b> From the [Dublin Core Metadata Initiative (DCMI) Metadata Terms webpage](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3). [↩](#a1)
+**See also** [Dublin Core Elements in Digital Commons] for a full list of elements used in Digital Commons (ScholarWorks).
