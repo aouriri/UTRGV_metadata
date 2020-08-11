@@ -7,8 +7,11 @@ For the digital collections and institutional repository at UTRGV, most of the e
 Properties in the `/elements/1.1/` namespace:
 
 * **contributor:** an entity responsible for making contributions to the resource
+  * dc.contributor
 * **coverage:** the spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant.
+  * dc.coverage
 * **creator:** an entity primarily responsible for making the resource.
+  * dc.creator
 * **date:** a point or period of time associated with an event in the lifecycle of the resource.
 * **description:** an account of the resource.
 * **format:** the file format, physical medium, or dimensions of the resource.
@@ -51,4 +54,5 @@ Properties in the `/terms/` namespace:
 * **type** - used
 
 <b id="f1">1:</b> From the [Dublin Core Metadata Initiative (DCMI) Metadata Terms webpage](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3). [↩](#a1)
-**See also** [Dublin Core Elements in Digital Commons] for a full list of elements used in Digital Commons (ScholarWorks).
+
+**See also** [Dublin Core Elements in Digital Commons](docs/Dublin-Core-Elements-in-Digital-Commons.pdf) for a full list of elements that can be used in Digital Commons (ScholarWorks).
