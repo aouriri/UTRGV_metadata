@@ -6,39 +6,44 @@ For the digital collections and institutional repository at UTRGV, most of the e
 
 Properties in the `/elements/1.1/` namespace:
 
-* **contributor (dc.contributor):** an entity responsible for making contributions to the resource
-* **coverage (dc.coverage):** the spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant.
-* **creator (dc.creator):** an entity primarily responsible for making the resource.
-* **date (dc.date):** a point or period of time associated with an event in the lifecycle of the resource.
+* **contributor:** an entity responsible for making contributions to the resource.
+* <a name="coverage" id="cover-id"></a>**coverage:** the spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant.
+* **creator:** an entity primarily responsible for making the resource.
+* <a name="date" id="date-id"></a>**date:** a point or period of time associated with an event in the lifecycle of the resource.
 * <a name="description" id="desc-id"></a>**description:** an account of the resource.
 * **format:** the file format, physical medium, or dimensions of the resource.
 * **identifier:** an unambiguous reference to the resource within a given context.
 * **language:** a language of the resource.
 * **publisher:** an entity responsible for making the resource available.
 * **relation:** a related resource.
-* **rights:** information about rights held in and over the resource.
+* <a name="rights" id="rights-id"></a>**rights:** information about rights held in and over the resource.
 * **source:** a related resource from which the described resource is derived.
 * **subject:** the topic of the resource.
 * **title:** a name given to the resource.
 * **type:** the nature or genre of the resource.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh venenatis cras sed felis eget. At volutpat diam ut venenatis. Magna eget est lorem ipsum dolor sit amet. Condimentum vitae sapien pellentesque habitant morbi tristique senectus. Posuere lorem ipsum dolor sit amet. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Diam quam nulla porttitor massa id neque aliquam vestibulum morbi. Luctus accumsan tortor posuere ac. Gravida quis blandit turpis cursus in hac habitasse. Orci phasellus egestas tellus rutrum tellus pellentesque. Aliquet nibh praesent tristique magna sit amet.
-
-Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Hac habitasse platea dictumst quisque sagittis purus sit amet. Sit amet justo donec enim diam vulputate ut pharetra. Ultrices dui sapien eget mi proin sed libero. Molestie a iaculis at erat pellentesque adipiscing commodo. Etiam non quam lacus suspendisse faucibus. Purus faucibus ornare suspendisse sed nisi lacus sed viverra tellus. Lorem donec massa sapien faucibus et molestie ac. Semper viverra nam libero justo laoreet. Facilisis mauris sit amet massa vitae tortor condimentum lacinia. Posuere urna nec tincidunt praesent. Vitae aliquet nec ullamcorper sit. Nunc mattis enim ut tellus. Aliquet lectus proin nibh nisl.
-
-Commodo quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Lorem ipsum dolor sit amet. Sodales ut etiam sit amet. Mus mauris vitae ultricies leo. Leo vel fringilla est ullamcorper. In dictum non consectetur a erat nam. Cras sed felis eget velit. Ipsum dolor sit amet consectetur adipiscing elit. Vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt. Maecenas ultricies mi eget mauris pharetra et. Aliquam ultrices sagittis orci a. Eget magna fermentum iaculis eu non. Mauris commodo quis imperdiet massa tincidunt nunc. Fringilla phasellus faucibus scelerisque eleifend donec. Ut ornare lectus sit amet. Semper eget duis at tellus at urna. Amet aliquam id diam maecenas ultricies. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare.
-
 Properties in the `/terms/` namespace:
 
-* **abstract:** subproperty of [description](#desc-id)
-* **audience** - used
-* **available**
-* **bibliographicCitation** - used
-* **created**
-* **rights** - used
-* **spatial** - used
-* **subject** - used
-* **temporal** - used
+* **abstract:** subproperty of [description](#desc-id); summary of the resource.
+* alternative
+* **audience:** a class of agents for whom the resource is intended or useful.
+* **available:** subproperty of [date](#date-id); date that the resource became or will become available.
+* **bibliographicCitation:** a bibliographic reference for the resource.
+* **created:** subproperty of [date](#date-id); date of creation of the resource.
+* extent
+* isFormatOf
+* isPartOf
+* isReferencedBy
+* isReplacedBy
+* isRequiredBy
+* issued
+* isVersionOf
+* **license:** subproperty of [rights](#rights-id); a legal document giving official permission to do something with the resource.
+* provenance
+* rightsHolder
+* **spatial:** subproperty of [coverage](#cover-id); identifies a location associated with an item.
+* **subject:**
+* **temporal:** subproperty of [coverage](#cover-id); identifies a time period associated with an item.
 
 <b id="f1">1:</b> From the [Dublin Core Metadata Initiative (DCMI) Metadata Terms webpage](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3). [↩](#a1)
 
