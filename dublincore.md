@@ -39,7 +39,8 @@ Properties in the `/terms/` namespace:
 * **created:** subproperty of [date](#date-id); date of creation of the resource.
 * **creator:** subproperty of [creator](#creat-id); 
 * <a name="date" id="datet-id"></a>**date:** subproperty of [date](#date-id);
-* **dateAccepted:** subproperty of [date](#date-id) and [date](#datet-id);
+* **dateAccepted:** date of acceptance of the resource.
+  * subproperty of [date](#date-id) (element) and [date](#datet-id) (term)
 * **dateCopyrighted:**
 * **dateSubmitted:**
 * **educationLevel:**
