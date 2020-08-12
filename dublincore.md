@@ -24,21 +24,31 @@ Properties in the `/elements/1.1/` namespace:
 
 Properties in the `/terms/` namespace:
 
-* **abstract:** subproperty of [description](#desc-id); summary of the resource.
-* **accessRights:** subproperty of [rights](#rights-id); information about who access the resource or an indication of its security status.
+* **abstract:** summary of the resource.
+ * subproperty of [description](#desc-id)
+* **accessRights:** information about who access the resource or an indication of its security status.
+ * subproperty of [rights](#rights-id)
 * **accrualMethod:** the method by which items are added to a collection.
 * **accrualPeriodicity:** the frequency with which items are added to a collection.
 * **accrualPolicy:** the policy governing the addition of items to a collection.
-* **alternative:** subproperty of [title](#title-id); an alternative name for the resource.
+* **alternative:** an alternative name for the resource.
+ * subproperty of [title](#title-id)
 * **audience:** a class of agents for whom the resource is intended or useful.
-* **available:** subproperty of [date](#date-id); date that the resource became or will become available.
+* **available:** date that the resource became or will become available.
+ * subproperty of [date](#date-id)
 * **bibliographicCitation:** a bibliographic reference for the resource.
-* **conformsTo:** subproperty of [relation](#relat-id); an established standard to which the described resource conforms.
-* **contributor:** subproperty of [contributor](#contr-id);
-* **coverage:** subproperty of [coverage](#cover-id);
-* **created:** subproperty of [date](#date-id); date of creation of the resource.
-* **creator:** subproperty of [creator](#creat-id); 
-* <a name="date" id="datet-id"></a>**date:** subproperty of [date](#date-id);
+* **conformsTo:** an established standard to which the described resource conforms.
+ * subproperty of [relation](#relat-id)
+* **contributor:** 
+ * subproperty of [contributor](#contr-id)
+* **coverage:** 
+ * subproperty of [coverage](#cover-id)
+* **created:** date of creation of the resource.
+ * subproperty of [date](#date-id)
+* **creator:**
+ * subproperty of [creator](#creat-id)
+* <a name="date" id="datet-id"></a>**date:** 
+ * subproperty of [date](#date-id)
 * **dateAccepted:** date of acceptance of the resource.
   * subproperty of [date](#date-id) (element) and [date](#datet-id) (term)
 * **dateCopyrighted:**
@@ -56,7 +66,8 @@ Properties in the `/terms/` namespace:
 * **isRequiredBy:**
 * **issued:**
 * **isVersionOf:**
-* **license:** subproperty of [rights](#rights-id); a legal document giving official permission to do something with the resource.
+* **license:** a legal document giving official permission to do something with the resource.
+ * subproperty of [rights](#rights-id)
 * **mediator:**
 * **medium:**
 * **modified:**
@@ -66,10 +77,12 @@ Properties in the `/terms/` namespace:
 * **replaces:**
 * **requires:**
 * **rightsHolder:**
-* **spatial:** subproperty of [coverage](#cover-id); identifies a location associated with an item.
+* **spatial:** identifies a location associated with an item.
+ * subproperty of [coverage](#cover-id)
 * **subject:**
 * **tableOfContents:**
-* **temporal:** subproperty of [coverage](#cover-id); identifies a time period associated with an item.
+* **temporal:** identifies a time period associated with an item.
+ * subproperty of [coverage](#cover-id)
 * **valid:**
 
 `Elements` specific to Digital Commons
