@@ -79,4 +79,4 @@ Properties in the `/terms/` namespace:
 
 <b id="f1">1:</b> From the [Dublin Core Metadata Initiative (DCMI) Metadata Terms webpage](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3). [↩](#a1)
 
-**See also** [Dublin Core Elements in Digital Commons](docs/Dublin-Core-Elements-in-Digital-Commons.pdf) for a full list of elements that can be used in Digital Commons (ScholarWorks).
+**See also** [Dublin Core Elements in Digital Commons](https://aouriri.github.io/UTRGV_metadata/docs/Dublin-Core-Elements-in-Digital-Commons.pdf) for a full list of elements that can be used in Digital Commons (ScholarWorks).
