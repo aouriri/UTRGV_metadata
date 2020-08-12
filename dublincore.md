@@ -6,36 +6,40 @@ For the digital collections and institutional repository at UTRGV, most of the e
 
 Properties in the `/elements/1.1/` namespace:
 
-* **contributor:** an entity responsible for making contributions to the resource.
+* <a name="contributor" id="contr-id"></a>**contributor:** an entity responsible for making contributions to the resource.
 * <a name="coverage" id="cover-id"></a>**coverage:** the spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant.
-* **creator:** an entity primarily responsible for making the resource.
+* <a name="creator" id="creat-id"></a>**creator:** an entity primarily responsible for making the resource.
 * <a name="date" id="date-id"></a>**date:** a point or period of time associated with an event in the lifecycle of the resource.
 * <a name="description" id="desc-id"></a>**description:** an account of the resource.
-* **format:** the file format, physical medium, or dimensions of the resource.
-* **identifier:** an unambiguous reference to the resource within a given context.
-* **language:** a language of the resource.
-* **publisher:** an entity responsible for making the resource available.
-* **relation:** a related resource.
+* <a name="format" id="form-id"></a>**format:** the file format, physical medium, or dimensions of the resource.
+* <a name="identifier" id="ident-id"></a>**identifier:** an unambiguous reference to the resource within a given context.
+* <a name="language" id="lang-id"></a>**language:** a language of the resource.
+* <a name="publisher" id="publi-id"></a>**publisher:** an entity responsible for making the resource available.
+* <a name="relation" id="relat-id"></a>**relation:** a related resource.
 * <a name="rights" id="rights-id"></a>**rights:** information about rights held in and over the resource.
-* **source:** a related resource from which the described resource is derived.
-* **subject:** the topic of the resource.
-* **title:** a name given to the resource.
-* **type:** the nature or genre of the resource.
+* <a name="source" id="srce-id"></a>**source:** a related resource from which the described resource is derived.
+* <a name="subject" id="subj-id"></a>**subject:** the topic of the resource.
+* <a name="title" id="title-id"></a>**title:** a name given to the resource.
+* <a name="type" id="type-id"></a>**type:** the nature or genre of the resource.
 
 Properties in the `/terms/` namespace:
 
 * **abstract:** subproperty of [description](#desc-id); summary of the resource.
-* **accessRights:**
-* **accrualMethod:**
-* **accrualPeriodicity:**
-* **accrualPolicy:**
-* **alternative:**
+* **accessRights:** subproperty of [rights](#rights-id); information about who access the resource or an indication of its security status.
+* **accrualMethod:** the method by which items are added to a collection.
+* **accrualPeriodicity:** the frequency with which items are added to a collection.
+* **accrualPolicy:** the policy governing the addition of items to a collection.
+* **alternative:** subproperty of [title](#title-id); an alternative name for the resource.
 * **audience:** a class of agents for whom the resource is intended or useful.
 * **available:** subproperty of [date](#date-id); date that the resource became or will become available.
 * **bibliographicCitation:** a bibliographic reference for the resource.
-* **conformsTo:**
+* **conformsTo:** subproperty of [relation](#relat-id); an established standard to which the described resource conforms.
+* **contributor:** subproperty of [contributor](#contr-id);
+* **coverage:** subproperty of [coverage](#cover-id);
 * **created:** subproperty of [date](#date-id); date of creation of the resource.
-* **dateAccepted:**
+* **creator:** subproperty of [creator](#creat-id); 
+* <a name="date" id="datet-id"></a>**date:** subproperty of [date](#date-id);
+* **dateAccepted:** subproperty of [date](#date-id) and [date](#datet-id);
 * **dateCopyrighted:**
 * **dateSubmitted:**
 * **educationLevel:**
