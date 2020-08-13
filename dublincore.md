@@ -42,7 +42,7 @@ Properties in the `/terms/` namespace:
  * subproperty of [relation](#relat-id) (element) and [relation](#relatt-id) (term)
 * <a name="contributor" id="contrt-id"></a>**contributor:** an entity responsible for making contributions to the resource.
  * subproperty of [contributor](#contr-id)
-* **coverage:** the spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant.
+* <a name="coverage" id="covert-id"></a>**coverage:** the spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant.
  * subproperty of [coverage](#cover-id)
 * **created:** date of creation of the resource.
  * subproperty of [date](#date-id) (element) and [date](#datet-id) (term)
@@ -64,46 +64,74 @@ Properties in the `/terms/` namespace:
  * subproperty of [format](#form-id) (element) and [format](#formt-id) (term)
 * <a name="format" id="formt-id"></a>**format:** the file format, physical medium, or dimensions of the resource.
  * subproperty of [format](#formid)
-* **hasFormat:**
-* **hasPart:**
-* **hasVersion:**
-* <a name="identifier" id="identt-id"></a>**identifier:**
-* **instructionalMethod:**
-* **isFormatOf:**
-* **isPartOf:**
-* **isReferencedBy:**
-* **isReplacedBy:**
-* **isRequiredBy:**
-* **issued:**
-* **isVersionOf:**
+* **hasFormat:** a related resource that is substantially the same as the pre-existing described resource, but in another format.
+ * subproperty of [relation](#relat-id) (element) and [relation](#relatt-id) (term)
+* **hasPart:** a related resource that is included either physically or logically in the described resource.
+ * subproperty of [relation](#relat-id) (element) and [relation](#relatt-id) (term)
+* **hasVersion:** a related resource that is a version, edition, or adaptation of the described resource.
+ * subproperty of [relation](#relat-id) (element) and [relation](#relatt-id) (term)
+* <a name="identifier" id="identt-id"></a>**identifier:** an unambiguous reference to the resource within a given context.
+ * subproperty of [identifier](#ident-id)
+* **instructionalMethod:** a process, used to engender knowledge, attitudes and skills, that the described resource is designed to support.
+* **isFormatOf:** a pre-existing related resource that is substantially the same as the described resource, but in another format.
+ * subproperty of [relation](#relat-id) (element) and [relation](#relatt-id) (term)
+* **isPartOf:** a related resource in which the described resource is physically or logically included.
+ * subproperty of [relation](#relat-id) (element) and [relation](#relatt-id) (term)
+* **isReferencedBy:** a related resource that references, cites, or otherwise points to the described resource.
+ * subproperty of [relation](#relat-id) (element) and [relation](#relatt-id) (term)
+* **isReplacedBy:** a related resource that supplants, displaces, or supersedes the described resource.
+ * subproperty of [relation](#relat-id) (element) and [relation](#relatt-id) (term)
+* **isRequiredBy:** a related resource that requires the described resource to support its function, delivery, or coherence.
+ * subproperty of [relation](#relat-id) (element) and [relation](#relatt-id) (term)
+* **issued:** date of formal issuance of the resource.
+  * subproperty of [date](#date-id) (element) and [date](#datet-id) (term)
+* **isVersionOf:** a related resource of which the described resource is a version, edition, or adaptation.
+ * subproperty of [relation](#relat-id) (element) and [relation](#relatt-id) (term)
 * **license:** a legal document giving official permission to do something with the resource.
  * subproperty of [rights](#rights-id)
-* **mediator:**
-* **medium:**
-* **modified:**
-* **provenance:**
-* **references:**
-* <a name="relation" id="relatt-id"></a>**relation:**
-* **replaces:**
-* **requires:**
-* <a name="rights" id="rightst-id"></a>**rights:**
-* **rightsHolder:**
+* **mediator:** an entity that mediates access to the resource.
+ * subproperty of [audience](#audit-id)
+* **medium:** the material or physical carrier of the resource.
+ * subproperty of [format](#formid) (element) and [format](#formt-id) (term)
+* **modified:** date on which the resource was changed.
+  * subproperty of [date](#date-id) (element) and [date](#datet-id) (term)
+* **provenance:** a statement of any changes in ownership and custody of the resource since its creation that are significant for its authenticity, integrity, and interpretation.
+* **publisher:** an entity responsible for making the resource available.
+ * subproperty of [publisher](#publi-id)
+* **references:** a related resource that is referenced, cited, or otherwise pointed to by the described resource.
+ * subproperty of [relation](#relat-id) (element) and [relation](#relatt-id) (term)
+* <a name="relation" id="relatt-id"></a>**relation:** a related resource.
+ * subproperty of [relation](#relat-id)
+* **replaces:** a related resource that is supplanted, displaced, or superseded by the described resource.
+ * subproperty of [relation](#relat-id) (element) and [relation](#relatt-id) (term)
+* **requires:** a related resource that is required by the described resource to support its function, delivery, or coherence.
+ * subproperty of [relation](#relat-id) (element) and [relation](#relatt-id) (term)
+* <a name="rights" id="rightst-id"></a>**rights:** information about rights held in and over the resource.
+ * subproperty of [rights](#rights-id)
+* **rightsHolder:** a person or organization owning or managing rights over the resource.
+* **source:** a related resource from which the described resource is derived.
+ * subproperty of [source](#srce-id) and [relation](#relatt-id) (term)
 * **spatial:** identifies a location associated with an item.
- * subproperty of [coverage](#cover-id)
-* **subject:**
-* **tableOfContents:**
+ * subproperty of [coverage](#cover-id) (element) and [coverage](#covert-id) (term)
+* **subject:** a topic of the resource.
+ * subproperty of [subject](#subj-id)
+* **tableOfContents:** a list of subunits of the resource.
+ * subproperty of [description](#desc-id) (element) and [description](#desct-id) (term)
 * **temporal:** identifies a time period associated with an item.
- * subproperty of [coverage](#cover-id)
-* <a name="title" id="titlet-id"></a>**title:**
-* **valid:**
+ * subproperty of [coverage](#cover-id) (element) and [coverage](#covert-id) (term)
+* <a name="title" id="titlet-id"></a>**title:** a name given to the resource.
+ * subproperty of [title](#title-id) (element)
+* **type*:** the nature or genre of the resource.
+ * subproperty of [type](#type-id)
+* **valid:** date (often a range) of validity of a resource.
+  * subproperty of [date](#date-id) (element) and [date](#datet-id) (term)
 
 `Elements` specific to Digital Commons
 
-* **thesis.degree:**
-* **thesis.degree.discipline**
-* **thesis.degree.grantor:**
-* **thesis.degree.level:**
-* **thesis.degree.name:**
+* **thesis.degree.discipline:** the area of study of the intellectual content of the thesis or dissertation.
+* **thesis.degree.grantor:** name of institution granting the degree associated with the thesis or dissertation.
+* **thesis.degree.level:** level of the degree associated with the thesis or dissertation.
+* **thesis.degree.name:** name of the degree associated with the thesis or dissertation.
 
 
 
