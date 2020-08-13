@@ -25,39 +25,49 @@ Properties in the `/elements/1.1/` namespace:
 Properties in the `/terms/` namespace:
 
 * **abstract:** summary of the resource.
- * subproperty of [description](#desc-id)
+ * subproperty of [description](#desc-id) (element) and [description](#desct-id) (term)
 * **accessRights:** information about who access the resource or an indication of its security status.
- * subproperty of [rights](#rights-id)
+ * subproperty of [rights](#rights-id) (element) and [rights](#rightst-id) (term)
 * **accrualMethod:** the method by which items are added to a collection.
 * **accrualPeriodicity:** the frequency with which items are added to a collection.
 * **accrualPolicy:** the policy governing the addition of items to a collection.
 * **alternative:** an alternative name for the resource.
- * subproperty of [title](#title-id)
-* **audience:** a class of agents for whom the resource is intended or useful.
+ * subproperty of [title](#title-id) (element) and [title](#titlet-id) (terms)
+* <a name="audience" id="audit-id"></a>**audience:** a class of agents for whom the resource is intended or useful.
 * **available:** date that the resource became or will become available.
- * subproperty of [date](#date-id)
+ * subproperty of [date](#date-id) (element) and [date](#datet-id) (term)
 * **bibliographicCitation:** a bibliographic reference for the resource.
+ * subproperty of [identifier](#ident-id) (element) and [identifier](#identt-id) (term)
 * **conformsTo:** an established standard to which the described resource conforms.
- * subproperty of [relation](#relat-id)
-* **contributor:** 
+ * subproperty of [relation](#relat-id) (element) and [relation](#relatt-id) (term)
+* <a name="contributor" id="contrt-id"></a>**contributor:** an entity responsible for making contributions to the resource.
  * subproperty of [contributor](#contr-id)
-* **coverage:** 
+* **coverage:** the spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant.
  * subproperty of [coverage](#cover-id)
 * **created:** date of creation of the resource.
- * subproperty of [date](#date-id)
-* **creator:**
- * subproperty of [creator](#creat-id)
-* <a name="date" id="datet-id"></a>**date:** 
+ * subproperty of [date](#date-id) (element) and [date](#datet-id) (term)
+* **creator:** an entity responsible for making the resource.
+ * subproperty of [creator](#creat-id) (element) and [contributor](#contrt-id) (term)
+* <a name="date" id="datet-id"></a>**date:** a point or period of time associated with an event in the lifecycle of the resource.
  * subproperty of [date](#date-id)
 * **dateAccepted:** date of acceptance of the resource.
   * subproperty of [date](#date-id) (element) and [date](#datet-id) (term)
-* **dateCopyrighted:**
-* **dateSubmitted:**
-* **educationLevel:**
-* **extent:**
+* **dateCopyrighted:** date of copyright of the resource.
+  * subproperty of [date](#date-id) (element) and [date](#datet-id) (term)
+* **dateSubmitted:** date of submission of the resource.
+  * subproperty of [date](#date-id) (element) and [date](#datet-id) (term)
+* <a name="description" id="desct-id"></a>**description:** an account of the resource.
+ * subproperty of [description](#desc-id)
+* **educationLevel:** a class of agents, defined in terms of progression through an educational or training context, for which the described resource is intended.
+ * subproperty of [audience](#audit-id)
+* **extent:** the size or duration of the resource.
+ * subproperty of [format](#form-id) (element) and [format](#formt-id) (term)
+* <a name="format" id="formt-id"></a>**format:** the file format, physical medium, or dimensions of the resource.
+ * subproperty of [format](#formid)
 * **hasFormat:**
 * **hasPart:**
 * **hasVersion:**
+* <a name="identifier" id="identt-id"></a>**identifier:**
 * **instructionalMethod:**
 * **isFormatOf:**
 * **isPartOf:**
@@ -73,9 +83,10 @@ Properties in the `/terms/` namespace:
 * **modified:**
 * **provenance:**
 * **references:**
-* **relation:**
+* <a name="relation" id="relatt-id"></a>**relation:**
 * **replaces:**
 * **requires:**
+* <a name="rights" id="rightst-id"></a>**rights:**
 * **rightsHolder:**
 * **spatial:** identifies a location associated with an item.
  * subproperty of [coverage](#cover-id)
@@ -83,6 +94,7 @@ Properties in the `/terms/` namespace:
 * **tableOfContents:**
 * **temporal:** identifies a time period associated with an item.
  * subproperty of [coverage](#cover-id)
+* <a name="title" id="titlet-id"></a>**title:**
 * **valid:**
 
 `Elements` specific to Digital Commons
