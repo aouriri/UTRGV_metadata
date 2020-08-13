@@ -121,10 +121,10 @@ Properties in the `/terms/` namespace:
  * subproperty of [coverage](#cover-id) (element) and [coverage](#covert-id) (term)
 * <a name="title" id="titlet-id"></a>**title:** a name given to the resource.
  * subproperty of [title](#title-id) (element)
-* **type*:** the nature or genre of the resource.
+* **type:** the nature or genre of the resource.
  * subproperty of [type](#type-id)
 * **valid:** date (often a range) of validity of a resource.
-  * subproperty of [date](#date-id) (element) and [date](#datet-id) (term)
+ * subproperty of [date](#date-id) (element) and [date](#datet-id) (term)
 
 `Elements` specific to Digital Commons
 
