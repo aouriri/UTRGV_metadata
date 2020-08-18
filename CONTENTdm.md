@@ -8,7 +8,7 @@ Title            | A name given to the resource |         |
 Subject          | The topic of the resource |         | Add different subjects into separate inputs
 Description      | An account of the resource |         |
 Creator          | An entity primarily responsible for making the resource |         |
-Publisher        | University of Texas Rio Grande Valley |    |
+Publisher        | An entity responsible for making the resource available | University of Texas Rio Grande Valley |
 Contributor      | An entity responsible for making contributions to the resource |   | In most cases, UTRGV
 Date             | A point or period of time associated with an event in the lifecycle of the resource | 2018-03-23 | Use YYYY-MM-DD format
 Type             | Nature of the resource | Still image | Choose either: Still image, sound, text, oral history
