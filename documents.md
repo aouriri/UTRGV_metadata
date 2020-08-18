@@ -6,7 +6,7 @@ This page provides additional resources or guidelines related to particular coll
 
 [Metadata for Video Exports](https://aouriri.github.io/UTRGV_metadata/docs/Metadata_VideoExports.docx)
 
-External Links
+**External Links**
 
 Selected Metadata Standards and Working Groups
 
