@@ -4,6 +4,8 @@ For the digital collections and institutional repository at UTRGV, most of the e
 
 ![example image of subject headings](docs/subjects-example.JPG)
 
+**(insert sheet w/ full elements here)**
+
 Properties in the `/elements/1.1/` namespace:
 
 * <a name="contributor" id="contr-id"></a>**contributor:** an entity responsible for making contributions to the resource.
