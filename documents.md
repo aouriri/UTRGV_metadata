@@ -10,6 +10,8 @@ This page provides additional resources or guidelines related to particular coll
 
 Selected Metadata Standards and Working Groups
 
+* [Source Codes for Vocabularies, Rules, and Schemes](http://www.loc.gov/marc/sourcecode/genre/genrelist.html)
+
 * [Data Documentation Initiative (DDI)](https://ddialliance.org/)
 
 * [Dublin Core Metadata Initiative](https://dublincore.org/)
