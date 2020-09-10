@@ -8,7 +8,7 @@ This page provides additional resources or guidelines related to particular coll
 
 **External Links**
 
-Selected Metadata Standards and Working Groups
+*Selected Metadata Standards and Working Groups*
 
 * [Source Codes for Vocabularies, Rules, and Schemes](http://www.loc.gov/marc/sourcecode/genre/genrelist.html)
 
@@ -26,7 +26,7 @@ Selected Metadata Standards and Working Groups
 
 * [National Information Standards Organization (NISO)](https://www.niso.org/what-we-do)
 
-External Tools for Cleaning and Reconciling Data
+*External Tools for Cleaning and Reconciling Data*
 
 * [MarcEdit and Other Tools for Batch Processing and Metadata Reconciliation](https://hangingtogether.org/?p=6646)
 
