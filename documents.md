@@ -25,3 +25,15 @@ Selected Metadata Standards and Working Groups
 * [MIX Technical Metadata for Digital Still Images Standard](https://www.loc.gov/standards/mix//)
 
 * [National Information Standards Organization (NISO)](https://www.niso.org/what-we-do)
+
+External Tools for Cleaning and Reconciling Data
+
+* [MarcEdit and Other Tools for Batch Processing and Metadata Reconciliation](https://hangingtogether.org/?p=6646)
+
+* [OpenRefine External Resources](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources)
+
+* [Cleaning Data with OpenRefine 💎 Project Guide](https://lissertations.github.io/openrefine/)
+
+* [Reconciliation Services for OpenRefine](http://refine.codefork.com/)
+
+* [Importing and Exporting data between MarcEdit and OpenRefine](https://www.youtube.com/watch?v=ItZShMoZmWg&feature=youtu.be)
