@@ -17,3 +17,13 @@ Scholarly Communications Librarian
 (956) 665-2765
 
 [justin.white@utrgv.edu](mailto:justin.white@utrgv.edu)
+
+For questions and comments about cataloging tasks or related issues, contact:
+
+**Dolores Villarreal**
+
+Cataloging Librarian
+
+(956) 665-2583
+
+[dolores.villarreal@utrgv.edu](mailto:dolores.villarreal@utrgv.edu)
