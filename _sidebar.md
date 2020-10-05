@@ -11,5 +11,6 @@
 * [Alma Authority Control Task List](authoritylist.md)
   * [Generating lists](generatinglists.md)
   * [Formatting lists](formattinglists.md)
+  * [Editing records](editrecord.md)
 * [Related Documents and Information](documents.md)
 * [Contacts](contacts.md)
