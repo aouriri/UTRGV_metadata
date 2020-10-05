@@ -9,5 +9,7 @@
   * [Linked Data Enrichment](enrichmentprojects.md)
   * [Metadata Application Profile (MAP)](rgvMAP.md)
   * [Alma Authority Control Task List](authoritylist.md)
+   * [Generating lists](generatinglists.md)
+   * [Formatting lists](formattinglists.md)
 * [Related Documents and Information](documents.md)
 * [Contacts](contacts.md)
