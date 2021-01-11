@@ -1,4 +1,4 @@
-This page provides additional resources or guidelines related to particular collections.
+This page provides additional resources or guidelines related to the input or clean-up of metadata for digital collections.
 
 **Internal Documents**
 
@@ -7,6 +7,10 @@ This page provides additional resources or guidelines related to particular coll
 [Metadata for Adobe Bridge](https://aouriri.github.io/UTRGV_metadata/docs/Metadata_Bridge.docx)
 
 [Metadata for Video Exports](https://aouriri.github.io/UTRGV_metadata/docs/Metadata_VideoExports.docx)
+
+**External Documents**
+
+[TxHUB Metadata Guidelines](https://aouriri.github.io/UTRGV_metadata/docs/TDL_DPLA_MetadataGuidelines-version1.pdf)
 
 **External Links**
 
