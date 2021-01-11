@@ -5,6 +5,7 @@
   * [Input Guidelines](input.md)
 * [CONTENTdm Metadata](CONTENTdm.md)
 * [ScholarWorks Metadata](scholarworks.md)
+* [TxHUB Metadata](txhub.md)
 * [Current Projects](projects.md)
   * [Linked Data Enrichment](enrichmentprojects.md)
   * [Metadata Application Profile (MAP)](rgvMAP.md)
