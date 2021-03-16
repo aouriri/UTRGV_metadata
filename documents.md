@@ -11,6 +11,7 @@ This page provides additional resources or guidelines related to the input or cl
 **External Documents**
 
 [TxHUB Metadata Guidelines](https://aouriri.github.io/UTRGV_metadata/docs/TDL_DPLA_MetadataGuidelines-version1.pdf)
+
 [ExLibris - Authorities in Alma: The Authority Control Task List](https://aouriri.github.io/UTRGV_metadata/docs/The Authority Control Task List.pptx)
 
 **External Links**
