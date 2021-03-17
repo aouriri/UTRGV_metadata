@@ -13,3 +13,4 @@ Using Dismiss all: This option will only dismiss the list you are currently view
 
 The Dismiss option is only available in the Review tab.
 
+For more information about working in the Authority Control Task List, please see the [Presentations and Documents - Authorities](https://knowledge.exlibrisgroup.com/Alma/Training/Extended_Training/Presentations_and_Documents_-_Authorities) section on the Ex Libris Knowledge Center.
