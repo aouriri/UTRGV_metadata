@@ -8,6 +8,7 @@
 * [ScholarWorks Metadata](scholarworks.md)
 * [TxHUB Metadata](txhub.md)
 * [Current Projects](projects.md)
+  * [Wikidata for Faculty](facultywikidata.md)
   * [Linked Data Enrichment](enrichmentprojects.md)
   * [Metadata Application Profile (MAP)](rgvMAP.md)
 * [Alma Authority Control Task List](authoritylist.md)
