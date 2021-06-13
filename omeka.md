@@ -1,1 +1,1 @@
-space for Omeka workflow, may include information from Justin.
+space for Omeka/OHMS workflow, may include information from Justin.
