@@ -4,7 +4,7 @@
 * [Dublin Core Fields](dublincore.md)
   * [Input Guidelines](input.md)
 * [CONTENTdm Metadata](CONTENTdm.md)
-* [Omeka](omeka.md)
+* [Omeka/OHMS](omeka.md)
 * [ScholarWorks Metadata](scholarworks.md)
 * [TxHUB Metadata](txhub.md)
 * [Current Projects](projects.md)
