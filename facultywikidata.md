@@ -7,7 +7,7 @@ Based on the work and [presentation](https://osf.io/r3vfp/) by Elisabeth Shook a
   * Download results as XSL file to upload into [OpenRefine](https://openrefine.org/)
   * Use OpenRefine to organize, reconcile, build schema, and upload author data to Wikidata
 3. Works
-  * Export collections from Zotero associated with faculty name as CSV[^1]
+  * Export collections from Zotero associated with faculty name as CSV<sup id="a1">[1](#f1)</sup>
   * Open file in Excel to remove null columns and save as XSL
   * Use OpenRefine to reconcile, create schema, and upload works data to Wikidata
 
@@ -44,4 +44,4 @@ Based on the work and [presentation](https://osf.io/r3vfp/) by Elisabeth Shook a
 * [SAGE Research Methods - Practical Data Management with R (video series, requires academic subscription)](https://methods.sagepub.com/Search/Results)
 
 
-[^1]: Q: Why not just create a CSV during scrape or export starred list as a CSV? Why involve Zotero? A: Zotero provides opportunity for structure & enhancement (plugins!), which is very useful for OpenRefine.
+<b id="f1">1:</b> Q: Why not just create a CSV during scrape or export starred list as a CSV? Why involve Zotero? A: Zotero provides opportunity for structure & enhancement (plugins!), which is very useful for OpenRefine. [↩](#a1)
